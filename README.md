@@ -25,7 +25,7 @@ HARP is a sample editor for **h**osted, **a**synchronous, **r**emote **p**rocess
     * **[Distribution](#distribution)**
 * **[Citations](#citations)**
 
-For more information on HARP, please see [our website](https://harp-plugin.netlify.app) or our most recent [NeurIPS workshop paper](https://openreview.net/pdf?id=Ha2z921r51).
+For more information on HARP, please see [our website](https://harp3.netlify.app/) or our most recent [NeurIPS workshop paper](https://openreview.net/pdf?id=Ha2z921r51).
 
 
 <!-- website/content/supported_os.md -->
@@ -39,7 +39,7 @@ HARP has been tested on the following operating systems:
 
 <!-- website/content/install/ -->
 <!-- website/content/setup/ -->
-Please visit [our website](https://harp-plugin.netlify.app/content/install/macos.html) for instructions on installing HARP and setting it up as an external sample editor for specific operating systems and DAWs.
+Please visit [our website](https://harp3.netlify.app/content/install/macos.html) for instructions on installing HARP and setting it up as an external sample editor for specific operating systems and DAWs.
 
 
 # Usage
@@ -67,7 +67,7 @@ HARP processes full regions in the DAW. Therefore, to edit a portion of an audio
 <!-- website/content/usage/models.md -->
 ## Models
 
-Please visit [our website](https://harp-plugin.netlify.app/content/usage/models.html) for a full list of supported models.
+Please visit [our website](https://harp3.netlify.app/content/usage/models.html) for a full list of supported models.
 
 <!-- website/content/usage/workflow.md -->
 ## Workflow
@@ -90,7 +90,7 @@ To get started:
 <!-- website/content/contributing/overview.md -->
 # Contributing
 
-To get started building and deploying models for others to use in HARP, see [Adding Models with pyharp](#adding-models-with-pyharp). To get started developing the HARP app itself, see [Building HARP](#building-harp). Please also see our [Developer Notes](https://github.com/TEAMuP-dev/HARP/blob/main/DevNotes.md) for various conventions and suggestions.
+To get started building and deploying models for others to use in HARP, see [Adding Models with pyharp](#adding-models-with-pyharp). To get started developing the HARP app itself, see [Building HARP](#building-harp). Please also see our [Developer Notes](https://github.com/TEAMuP-dev/HARP/blob/main/DEVNOTES.md) for various conventions and suggestions.
 
 <!-- website/content/contributing/version_compat.md -->
 ## Version Compatibility
